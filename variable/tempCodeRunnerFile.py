@@ -1,0 +1,1 @@
+it gives true if the string end with ge so ans is true here:
